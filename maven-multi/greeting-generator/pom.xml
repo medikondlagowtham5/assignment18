@@ -21,9 +21,8 @@
         </dependency>
         <dependency>
             <groupId>none.cvg.maven</groupId>
-            <artifactId>expensetracker</artifactId>
+            <artifactId>Factorial</artifactId>
             <version>1.0.0</version>
-            <scope>compile</scope>
         </dependency>
     </dependencies>
 

@@ -32,7 +32,8 @@
         <module>datetime-fetcher</module>
         <module>greeting</module>
         <module>greeting-generator</module>
-        <module>expensetracker</module>
+
+        <module>Factorial</module>
     </modules>
 
     <build>

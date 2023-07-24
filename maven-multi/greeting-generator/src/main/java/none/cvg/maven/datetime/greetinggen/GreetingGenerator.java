@@ -1,6 +1,7 @@
 package none.cvg.maven.datetime.greetinggen;
 
 
+import none.cvg.maven.Main;
 import none.cvg.maven.greeting.Greeting;
 import java.util.HashMap;
 import java.util.Map;
@@ -10,8 +11,12 @@ public class GreetingGenerator {
     public static void main(String[] args) {
         Greeting greeting = new Greeting();
         System.out.println("\n" + greeting.greet());
+        //recursion
+                // Calculate the factorial of 5 and print the result
+                int number = 5;
+                int result = Main.factorial(number);
 
-
+                //expense tracker
         Map<String, Double> expenses = new HashMap<>();
         Scanner scanner = new Scanner(System.in);
 
